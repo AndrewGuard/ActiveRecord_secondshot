@@ -1,0 +1,4 @@
+Thing = definition
+Canada = a country that likes hockey
+Pedro = Dude from Mexico - likes burritos
+Isabelle = Hot chick from Spain
